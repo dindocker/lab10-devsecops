@@ -1,0 +1,11 @@
+{
+  "name": "lab10-devsecops",
+  "version": "1.0.0",
+  "description": "DevSecOps Lab - CCGC-5506",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.18.2",
+    "lodash": "4.17.21",
+    "jsonwebtoken": "9.0.2"
+  }
+}
