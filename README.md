@@ -222,12 +222,3 @@ Unlike perimeter security, it protects cloud workloads where users connect from 
 - Network rules and data protection  
 
 ---
-
-If you'd like, I can also add:
-
-- A table of contents  
-- Badges (build passing, license, etc.)  
-- Section dividers  
-- Code formatting improvements  
-
-Just tell me how polished you want your README to look.
