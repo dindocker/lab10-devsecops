@@ -1,23 +1,6 @@
 {
   "name": "lab10-devsecops",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^4.16.0",
-    "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15"
-  }
-}
-=======
   "description": "DevSecOps Lab - CCGC-5506",
   "main": "app.js",
   "dependencies": {
@@ -26,4 +9,3 @@
     "jsonwebtoken": "9.0.2"
   }
 }
->>>>>>> 48ca896e1f62b4abe44dd00be174e643552fdef1
